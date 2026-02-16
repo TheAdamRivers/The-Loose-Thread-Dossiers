@@ -1,0 +1,5 @@
+Contact: mailto:adam@synthicsoftlabs.com
+Expires: 2027-02-16T00:00:00Z
+Preferred-Languages: en
+Canonical: https://loosethread.synthicsoftlabs.com/.well-known/security.txt
+Policy: https://loosethread.synthicsoftlabs.com/security-policy 
