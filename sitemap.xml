@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://loosethread.synthicsoftlabs.com/</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread.zip</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Full_Dossier.docx</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier10_Intelligence_Nexus.docx</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Add the remaining 7 files here in the same format -->
+  <!-- Example for one more: -->
+  <url>
+    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier2_The_Syndicate.docx</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- ... continue for Tier3 through Tier9 ... -->
+</urlset>
