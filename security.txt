@@ -1,5 +1,6 @@
-Contact: mailto:adam@synthicsoftlabs.com
-Expires: 2027-02-16T00:00:00Z
+Contact: https://synthicsoftlabs.com/contact
+Expires: 2026-02-16T00:00:00.000Z
+Encryption: https://synthicsoftlabs.com/pgp-key.asc
 Preferred-Languages: en
 Canonical: https://loosethread.synthicsoftlabs.com/.well-known/security.txt
-Policy: https://loosethread.synthicsoftlabs.com/security-policy 
+Policy: https://synthicsoftlabs.com/disclosure-policy
