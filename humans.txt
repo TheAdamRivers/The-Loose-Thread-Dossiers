@@ -1,0 +1,15 @@
+/* TEAM */
+Project: The Loose Thread Project
+Organization: SynthicSoft Labs
+Site: https://loosethread.synthicsoftlabs.com/
+Location: United States
+
+/* THANKS */
+Dedicated to truth, transparency, and accountability in intelligence operations.
+
+/* SITE */
+Last update: 2025-02-16
+Standards: HTML5, CSS3, Schema.org
+Components: Intelligence Disclosure Archive
+Software: Custom Documentation System
+Doctrine: Public Interest Disclosure
