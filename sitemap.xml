@@ -1,96 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
-  <!-- Homepage - Highest priority -->
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>weekly</changefreq>  <!-- More frequent if you plan updates -->
-    <priority>1.0</priority>
-  </url>
+    <!-- Homepage -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
 
-  <!-- Main archive ZIP - High value -->
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread.zip</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
+    <!-- Main Archive -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread.zip</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
 
-  <!-- Full main dossier -->
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Full_Dossier.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+    <!-- Main Dossier -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Full_Dossier.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
 
-  <!-- Tier 10 (intelligence nexus - potentially most critical) -->
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier10_Intelligence_Nexus.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
-  </url>
+    <!-- Tier 2 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier2_The_Syndicate.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <!-- Remaining tiers - balanced priority -->
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier2_The_Syndicate.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 3 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier3_The_Operators.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier3_The_Operators.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 4 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier4_Full_Constellation.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier4_Full_Constellation.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 5 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier5_The_Deep_Web.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier5_The_Deep_Web.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 6 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier6_Comprehensive%20(1).docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier6_Comprehensive (1).docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 7 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier7_Exponential_Expansion%20(1).docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier7_Exponential_Expansion (1).docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 8 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier8_Institutional_Penetration%20(1).docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier8_Institutional_Penetration (1).docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 9 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier9_Complete_Syndicate.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-  <url>
-    <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier9_Complete_Syndicate.docx</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+    <!-- Tier 10 -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/Project_Loose_Thread_Tier10_Intelligence_Nexus.docx</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- LLMs.txt -->
+    <url>
+        <loc>https://loosethread.synthicsoftlabs.com/llms.txt</loc>
+        <lastmod>2025-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
 
 </urlset>
